@@ -6,6 +6,7 @@ public class Demo1 {
 
 		System.out.println("just started!!");
 		System.out.println("updating from pc1");
+		System.out.println("updaing from pc2");
 	}
 
 }
